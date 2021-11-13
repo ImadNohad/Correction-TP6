@@ -7,12 +7,11 @@
 }
 
 body {
-  height: 100vh;
   max-width: 1440px;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0 auto;
+  margin: 3.715rem auto;
   background-color: hsl(210, 46%, 95%);
   font-family: "Barlow Semi Condensed";
   font-weight: 400;
