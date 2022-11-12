@@ -108,7 +108,7 @@ body {
 
 @media screen and (max-width: 1000px) {
 	body {
-		height: auto;
+		height: 100vh;
 	}
 
 	.wrapper {
